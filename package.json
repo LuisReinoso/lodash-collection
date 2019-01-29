@@ -1,0 +1,32 @@
+{
+  "name": "lodash-collection",
+  "version": "1.0.0",
+  "description": "Código del video sobre el uso de lodash collection. Bibliotecas de programación ",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisReinoso/lodash-collection.git"
+  },
+  "keywords": [
+    "lodash",
+    "lodash",
+    "collection"
+  ],
+  "author": "Luis Reinoso <lomejordejr@gmail.com> (http://luisreinoso.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisReinoso/lodash-collection/issues"
+  },
+  "homepage": "https://github.com/LuisReinoso/lodash-collection#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.120"
+  }
+}
